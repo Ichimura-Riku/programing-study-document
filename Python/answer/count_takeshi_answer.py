@@ -1,4 +1,5 @@
-# 文字列リストclassmateから、"たけし"君が何人いるか出力する
+# 文字列リストclassmateから、
+# "たけし"君が何人いるか出力する
 
 # 解答例
 def count_takeshi(classmates: list[str]):

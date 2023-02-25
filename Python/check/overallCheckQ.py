@@ -21,7 +21,7 @@ while True:
         print(b)
         print()
         for i in renge(a):
-            print(f'{c[i]}は' + f'{D[i]} の回')
+            print(f'{C[i]}は' + f'{d[i]} の回')
     else:
         break
 
